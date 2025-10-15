@@ -30,4 +30,6 @@
 1.1
 - TECHNICAL: Mod Merged with Colonial Ascension.
 
-1.0- RELEASE: Astral Assembly Initial Release.
+1.0
+
+- RELEASE: Astral Assembly Initial Release.
