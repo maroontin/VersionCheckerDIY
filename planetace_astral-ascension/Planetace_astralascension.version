@@ -1,14 +1,13 @@
 {
-  "masterVersionFile": "https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/planetace_astral-ascension/Planetace_astralascension.version",
-  "modName": "Planetace's AstralAscension",
-  "modThreadId": 28273,
-  "directDownloadURL": "https://github.com/Planetace/Astral-Ascension/releases/download/Release/AstralAscension.zip",
+    "masterVersionFile": "https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/planetace_astral-ascension/Planetace_astralascension.version",
+    "modName": "Planetace's AstralAscension",
+    "modThreadId": 28273,
+    "directDownloadURL": "https://github.com/Planetace/Astral-Ascension/releases/download/Release/AstralAscension.zip",
 
-  "modVersion":
-    {
-      "major": 1,
-      "minor": 2,
-      "patch": 7
+    "modVersion": {
+        "major": 1,
+        "minor": 2,
+        "patch": 7
     },
-	"changelog":"https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/planetace_astral-ascension/changelog.txt"
+    "changelog": "https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/planetace_astral-ascension/changelog.txt"
 }
