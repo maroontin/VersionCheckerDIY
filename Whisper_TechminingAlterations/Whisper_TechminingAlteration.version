@@ -9,5 +9,5 @@
         "minor":1,
         "patch":0 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
-    "https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/Whisper_TechminingAlterations/changelog.txt"
+    "changelogUrl":"https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/Whisper_TechminingAlterations/changelog.txt"
 }
