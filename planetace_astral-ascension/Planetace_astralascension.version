@@ -9,5 +9,5 @@
         "minor": 2,
         "patch": 7
     },
-    "changelog": "https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/planetace_astral-ascension/changelog.txt"
+    "changelogURL": "https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/planetace_astral-ascension/changelog.txt"
 }
