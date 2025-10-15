@@ -1,0 +1,41 @@
+4.1.0
+Updated and tested against StarSector 0.98a-RC8
+
+Testing included:
+* Multiple colonies (from size 3-7)
+* Multiple TechMining buildings
+* Using Story Points
+* Removing a TechMining building
+* Removing a TechMining building which had been improved with Story Points
+* Shifting the destination of TechMining finds
+
+And a whole bunch of testing the various options. I hammered it pretty thoroughly, to the point of having way more stuff (including Special Items) than I know what to do with.
+
+Some of the code was simplified, more settings made available, the settings toned down considerably by default. See the User Configurable section for details, the earlier version is kept as a reference for those who want to ramp it up to eleven.
+
+3.0.0
+Updated and tested against StarSector 0.97a-RC11
+
+Fixed an issue where the mod would occasionally give the player a Special colony item, after the player had decivilized a planet and re-colonized it for his own use. This was not meant to happen.
+
+2.0.0
+* The value of the drops has been reduced in the "settings.json" file below:
+  # the base credit value of ordinary drops (multiplied by ruins size and colony size)
+  "wta_ruinsvalue_basic" : 4000, <<< was 5000
+  "wta_ruinsvalue_goods" : 3000, <<< was 4000
+  "wta_ruinsvalue_other" : 2000, <<< was 3000
+
+* Blueprints and modspecs can be found *even if the character already knows them*. I realized that just because a character knows a blueprint or modspec, doesn't mean that it cannot be found again when doing a deep-dive into the ruins - the concept of there being only one ever in the entire sector makes no sense. Now you can find duplicates - happy selling!
+
+* Sometimes you just don't have an Alpha AI core to throw onto your techmining structure. Never fear, Beta and Gamma AI cores will work also - though not as well as an Alpha AI core, of course:
+  * Alpha AI Core - 25% bonus
+  * Beta AI Core - 15% bonus
+  * Gamma AI Core - 5% bonus
+
+* The bonuses given by an Alpha/Beta/Gamma AI core can be configured in the "settings.json" file below:
+  # the Tech-mining finds bonuses for Alpha, Beta and Gamma cores
+  "wta_alphacore_finds_bonus": 0.25f,
+  "wta_betacore_finds_bonus": 0.15f,
+  "wta_gammacore_finds_bonus": 0.05f,
+
+* The finds increase bonuses given by Beta/Gamma AI cores will be displayed correctly in the TechMining structure's tooltip.
