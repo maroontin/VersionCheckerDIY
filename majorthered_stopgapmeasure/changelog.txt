@@ -1,0 +1,159 @@
+1.2.5
+-Three new ships
+-Formica and Copernic have been adjusted
+-Auspicious got its TPC back
+-Cathar got a Individual Fire Control system
+-Some balance changes for multiples weapons
+
+1.2.4
+-various re-balancing of weapons and ships according to 0.96a
+-adjustment ships availability by faction
+-added Capital ship availability for continuity
+ 
+1.2.3
+-Added Rugged Construction built-in mod to Porphyros
+-Validated spawning of various ships
+-(Re)Added the Babel
+-Apex renamed to Auspicious
+-Tantive has been removed
+-Automated ships should now be salvageable with proper skill
+-Mining values for Nexelerin
+
+1.2.2
+-Added the Charon (P) carrier
+-Added the Formica drone carrier and Bentu drone fighter
+-Added Maringuin kinetic bomber
+-Added Rosatom auxiliary frigate
+-Replaced Fundation sprite (roughly the same ships) and added Filum drones
+-Replaced Huntsman sprite
+-Replaced Traverse sprite
+-Removed Merx and Salvage Corvette
+-Asp got an increase in speed
+-Bogomil trade Heavy ballistic integration for Range Finder and extra OP
+-Apex trade Thermal Pulse Cannon for large energy mount
+-Ballista got Civilian and Rugged construction hullmods
+-Tantive gain Advanced ground support hullmod
+-Dragoon gain Damper field system
+-Added crew capacity to Copernic
+-Fixed descriptions of some ships and weapons
+-Fixed som game stats for David SRM, Charged laser, Aton laser, Mosychlos
+-Opportunity got the flak cannister system   
+-Herder got cargo aligned on Drover
+-Changed industry for Lepia, removed Commerce
+-Checked various spawning problems of HT and LC ships
+
+1.2
+-Retrofit of several features (version checker and java compilation removed)
+-Fixed many typos thanks to forum members Plantissue and BladedQueen
+-Balance changes for the Herder, Trajan, Charon, Foundation.
+-Many ships have changed names to be compliant with names used by other mods.
+-Merx and salvage corvette removed
+-Added/changed a few variants for the civilian ships.
+
+1.0
+-Compatible with Version checker
+-1 New weapons (Swarm medium mount)
+-3 New ships (dropship, midline destroyer, salvage corvette)
+-Background images for Bythinia and abandoned platform in Utic
+-Remove cluster launcher
+-Tweak a few details about the Zenith, Era, Contemptor and Matsar
+-Luddic Church starting option a bit more relevant
+
+0.78
+-New sprite for the Opportuniy
+-Foundation gets 2 built-in borer drone wings
+-Starblazer gain back the Reserve Deployement system
+-New TT Corvette
+-New LC carrier
+-New Large Kinetic LRM
+-New Large Energy Archeotech
+-New Cluster missile launcher
+
+0.77
+-New sprite for the Ballista
+-Prices changed to fit with 0.91
+-Little twists to mining beam array and heavy ming beam
+-Impaler and Bardot are remove from the mod
+-Fix error in .faction files preventing several ships to spawn.
+-Thanks to DiM, most of ships descriptions have been check for english spelling and wording
+
+v0.76
+-New ship: Era factory ship
+-New wing: Ethon interceptor
+-Copernic get Survey and Solar shielding as default mod
+-Impaler and Dove slightly modified.
+
+0.75
+-New ship: Wardlaw Q-Ship
+-Medium David launcher
+-New Large Missile
+-Many rare blueprints now inside blueprint package
+-Twits on many weapons
+-Minos re-imagined
+
+0.74
+-New ship: Impaler fast destroyer
+-2 new secrets
+-Removed Carcajou frigate
+-Tried to fix all variant and spawning problems related with .faction files
+-Adjusted probability of variants for most ships
+
+0.73
+-New sprite for the Copernic
+-New ship: Barbot exploration ship (based on the Mule)
+-2 new mining-based weapons
+-Some modification on the Wagner, the Starblazer
+
+0.72
+-Balance changes for Opportunity cruiser
+-2 New weapons
+-Mysteries (small ones)
+-One new wing
+-2 new ships
+
+0.71
+-Updated version for 0.9a
+-Minos destroyer slightly modified
+-Twisted some characteristics of some ships and weapons for balance purpose
+
+0.61
+-Added the Starblazer carrier
+-Added a medium ballistic and a small missile weapon
+-Added description to all weapons and ships
+-Added several variants for vanilla ships
+-Variants and factions files cleaned up
+-Fix errors in price and descriptions
+-Balanced cargo values for small freighters and OP for Arbitrator
+
+0.6
+-Added the Pyrphoros and the Minos
+-New stellar system
+-Fixed some minor things on the Wagner and Ballista
+-Fixed prices for ships
+-Updated lore for several ships and missions
+-Fixed several orbits in Utic and Byzas systems
+
+0.4
+-Resolved several errors on Ballista, Hoplite (P) and Tantive
+-Added the Triumph and the Cathar
+-Huntsman gets the Fire control ship system
+-3 Missions
+-2 new solar systems
+
+0.31
+-Added Pirate Wagner
+-Upgraded sprites for Copernic, Martyr and Huntsman
+-Add Ballista (destroyer)
+-Added codex entry for 9 ships and all weapons
+-Added Lopot cruise-missile
+
+0.3
+-Added Herder (ligh carrier), Wagner (cruiser) and Chondrite (freighter)
+-Added 3 weapons
+-Changed some error on ship files
+
+0.2
+-Changed conflicting class-names
+-Added Dove (scout vessel) and Carcajou (sister class of the Scarab)
+-Added skin for Hoplite, Opportunity and Carcajou
+-Upgraded sprites for Copernic, Hoplite.
