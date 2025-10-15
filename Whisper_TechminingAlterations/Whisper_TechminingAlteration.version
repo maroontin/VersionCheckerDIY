@@ -12,7 +12,7 @@
     # that the JRE that ships with Starsector does not include).
     #
     # A link to the raw .version JSON data
-    "masterVersionFile":"https://raw.githubusercontent.com/LazyWizard/version-checker/master/mod/versionchecker.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/Whisper_TechminingAlterations/Whisper_TechminingAlteration.version",
     
     # The name that is displayed in-game for your mod
     "modName":"Whisper's Techmining Alteration",
@@ -47,9 +47,9 @@
     # Links to a direct download of the mod; fetched from the online version file
     # Used to download updates through LunaLib's main menu version checker UI
     #"directDownloadURL":"https://github.com/LazyWizard/version-checker/releases/latest/download/Version_Checker.zip",
-    #"directDownloadURL":"https://github.com/LazyWizard/version-checker/releases/download/2.0b/Version_Checker_2.0b.zip",
+    "directDownloadURL":"https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=1028&game_id=2672",
     
     # Point at a directly accessible text file; fetched from the online version file
     # The contents of said file will be shown for that mod in LunaLib's main menu version checker UI
-    "changelogURL":"https://raw.githubusercontent.com/LazyWizard/version-checker/refs/heads/master/mod/changelog.txt"
+    "https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/Whisper_TechminingAlterations/changelog.txt"
 }
