@@ -1,0 +1,13 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/majorthered_stopgapmeasure/stopgapmeasure.version",
+    "modName": "MajorTheRed's Stop Gap Measure",
+    "modThreadId": 13083,
+    "modNexusId": ,
+    "directDownloadURL": "https://www.dropbox.com/scl/fi/r03ou8tb0pi1u2xqwxfhi/Stop-Gap-Measure-1.2.5.zip?dl=0&e=1&file_subpath=%2FStop+Gap+Measure+1.2.5&rlkey=8cv6o18cjm2mxinjs2ijglqgz",
+    "modVersion": {
+        "major": 1,
+        "minor": 2,
+        "patch": 5
+    },
+    "changelogURL":"https://raw.githubusercontent.com/maroontin/VersionCheckerDIY/refs/heads/main/majorthered_stopgapmeasure/changelog.txt"
+}
